@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "buildlogic-time-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "07ea846c-e104-40ab-bc04-7faaa54a1b2b",
+			"database_name": "d1-buildlogic-time-api-template"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
